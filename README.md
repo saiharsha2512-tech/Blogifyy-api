@@ -8,6 +8,8 @@ middleware handling, and standardized API responses.
 ## Features
 - Versioned API (/api/v1)
 - Modular routing
+
+> **Note:** This README update is part of a feature branch to demonstrate a pull request workflow.
 - Controller pattern
 - Global error handling
 - Standardized JSON responses
